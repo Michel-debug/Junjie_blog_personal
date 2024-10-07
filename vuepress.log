@@ -1,0 +1,479 @@
+wait Extracting site metadata...
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+ℹ Compiling Client
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:8080/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /root/vuepressDemo/docs/.vuepress/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /index.html
+✔ Client: Compiled with some errors in 7.60s
+csuccess [22:14:33] Build b7dbb1 finished in 7602 ms! 
+> VuePress dev server listening at http://localhost:8080/
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 213.74ms
+csuccess [22:14:33] Build 3e603a finished in 214 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 584.38ms
+csuccess [22:15:42] Build 46bdc4 finished in 585 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 404.16ms
+csuccess [22:15:44] Build aa9eb7 finished in 405 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 455.53ms
+csuccess [22:15:49] Build 675ec2 finished in 456 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 515.48ms
+csuccess [22:15:52] Build cacb67 finished in 516 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 355.03ms
+csuccess [22:16:13] Build a72d7b finished in 356 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 380.41ms
+csuccess [22:17:29] Build d62f01 finished in 384 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 376.68ms
+csuccess [22:18:58] Build 8d74c4 finished in 378 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 311.77ms
+csuccess [22:19:08] Build 4c346d finished in 313 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 445.38ms
+csuccess [22:19:12] Build 990121 finished in 446 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 274.33ms
+csuccess [22:19:24] Build 2ee66b finished in 275 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 282.84ms
+csuccess [22:19:25] Build 7c1154 finished in 283 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 271.77ms
+csuccess [22:20:27] Build 2a5f7e finished in 272 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 440.92ms
+csuccess [22:24:37] Build c91984 finished in 442 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 285.07ms
+csuccess [22:24:42] Build 5ae233 finished in 288 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 403.49ms
+csuccess [22:24:45] Build f745a7 finished in 404 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 479.41ms
+csuccess [22:24:58] Build 13c5c7 finished in 480 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 433.33ms
+csuccess [22:29:41] Build 547b9c finished in 434 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 219.00ms
+csuccess [22:29:42] Build 397742 finished in 219 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 483.69ms
+csuccess [22:29:50] Build 2b3226 finished in 484 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 171.98ms
+csuccess [22:29:56] Build 08e31e finished in 173 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 216.59ms
+csuccess [22:29:59] Build 7bf45c finished in 217 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 603.55ms
+csuccess [22:30:00] Build 7fa856 finished in 605 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 389.83ms
+csuccess [22:30:06] Build d34395 finished in 390 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 338.24ms
+csuccess [22:30:08] Build 8c0a3f finished in 338 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 368.07ms
+csuccess [22:30:13] Build 112204 finished in 369 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 247.64ms
+csuccess [22:30:17] Build d0dc64 finished in 248 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 261.68ms
+csuccess [22:30:21] Build f36702 finished in 262 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 417.85ms
+csuccess [22:30:34] Build a11921 finished in 418 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 409.00ms
+csuccess [22:30:36] Build fca14f finished in 410 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 383.19ms
+csuccess [22:30:39] Build 5558c8 finished in 384 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 552.08ms
+csuccess [22:30:45] Build d00818 finished in 553 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 353.59ms
+csuccess [22:33:08] Build f39f45 finished in 354 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 348.27ms
+csuccess [22:36:35] Build d93220 finished in 349 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 288.85ms
+csuccess [22:36:38] Build a3003a finished in 289 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 292.89ms
+csuccess [22:37:15] Build f6f94c finished in 293 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 269.62ms
+csuccess [22:37:17] Build 7c1939 finished in 269 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 213.74ms
+csuccess [22:37:17] Build 0e3389 finished in 214 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 389.62ms
+csuccess [22:59:51] Build 80214c finished in 390 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 585.99ms
+csuccess [22:59:53] Build e3ac39 finished in 586 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 350.20ms
+csuccess [23:08:45] Build ca75f3 finished in 351 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 432.48ms
+csuccess [23:08:51] Build 61ee6b finished in 433 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 308.54ms
+csuccess [23:08:54] Build 69518e finished in 309 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 305.69ms
+csuccess [23:08:57] Build a8ef26 finished in 306 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 256.61ms
+csuccess [23:09:02] Build b1b4fd finished in 257 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 255.13ms
+csuccess [23:09:07] Build 8a5d56 finished in 255 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 235.80ms
+csuccess [23:09:09] Build 2698bb finished in 236 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 332.86ms
+csuccess [23:09:50] Build f45bae finished in 333 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 263.34ms
+csuccess [23:10:08] Build 95d0c3 finished in 264 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 312.30ms
+csuccess [23:10:10] Build 7d57af finished in 313 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 248.99ms
+csuccess [23:11:25] Build 0ad670 finished in 250 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 309.53ms
+csuccess [23:12:19] Build b965da finished in 310 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 275.25ms
+csuccess [23:12:20] Build d2dafd finished in 276 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 271.97ms
+csuccess [23:16:47] Build c3df0f finished in 273 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 277.49ms
+csuccess [23:16:59] Build 56a4fb finished in 278 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 418.68ms
+csuccess [23:21:53] Build a51a9e finished in 419 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 231.25ms
+csuccess [23:21:57] Build 99d14e finished in 231 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 219.15ms
+csuccess [23:22:03] Build aab110 finished in 220 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 404.22ms
+csuccess [23:22:21] Build 347a32 finished in 404 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 516.80ms
+csuccess [23:22:24] Build 172ad4 finished in 518 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 422.39ms
+csuccess [23:22:30] Build 09b121 finished in 423 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 242.40ms
+csuccess [23:22:31] Build 2292e6 finished in 243 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 220.57ms
+csuccess [23:22:36] Build 4fc66d finished in 221 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 269.45ms
+csuccess [23:22:44] Build 1e9e87 finished in 270 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 172.23ms
+csuccess [23:22:55] Build 4e8222 finished in 173 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 446.20ms
+csuccess [23:23:00] Build 052d02 finished in 446 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 340.85ms
+csuccess [23:23:03] Build f6c319 finished in 341 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 382.66ms
+csuccess [23:23:08] Build 5314d9 finished in 383 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 317.53ms
+csuccess [23:23:13] Build 6b5e1d finished in 318 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 163.15ms
+csuccess [23:23:16] Build 8e9433 finished in 163 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 326.23ms
+csuccess [23:23:18] Build 8d7ffd finished in 327 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 423.77ms
+csuccess [23:23:57] Build 42b6e3 finished in 424 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 591.84ms
+csuccess [23:24:26] Build 0b7f4e finished in 592 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 323.32ms
+csuccess [23:24:28] Build 870ccb finished in 324 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 504.06ms
+csuccess [23:28:56] Build e89b67 finished in 505 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.99s
+csuccess [23:28:59] Build 88db24 finished in 2987 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 280.19ms
+csuccess [23:29:07] Build f90ffe finished in 281 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 283.56ms
+csuccess [23:29:21] Build c352e7 finished in 284 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 402.04ms
+csuccess [23:29:29] Build 0c9b48 finished in 403 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.58s
+csuccess [23:29:32] Build 752236 finished in 2580 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 540.96ms
+csuccess [23:33:27] Build 459f41 finished in 541 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.38s
+csuccess [23:33:30] Build 265c60 finished in 2382 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 261.50ms
+csuccess [23:33:30] Build 1cf51d finished in 262 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 428.96ms
+csuccess [23:33:33] Build 9bf174 finished in 429 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 259.72ms
+csuccess [23:33:45] Build 010ed8 finished in 260 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 602.05ms
+csuccess [23:33:49] Build 5fc90c finished in 602 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 224.99ms
+csuccess [23:33:50] Build 86780f finished in 226 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 296.68ms
+csuccess [23:33:52] Build 6c87f4 finished in 297 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 239.32ms
+csuccess [23:33:57] Build 3cbabb finished in 240 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 244.66ms
+csuccess [23:34:01] Build 4c35d5 finished in 245 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 205.88ms
+csuccess [23:34:03] Build d824b1 finished in 206 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 253.85ms
+csuccess [23:34:07] Build 6e4a4a finished in 254 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 389.98ms
+csuccess [23:34:25] Build 6bc5a8 finished in 391 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 481.15ms
+csuccess [23:40:56] Build 8d8f3e finished in 481 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 392.10ms
+csuccess [23:41:18] Build c425f9 finished in 392 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 356.46ms
+csuccess [23:41:22] Build 235b03 finished in 357 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 336.87ms
+csuccess [23:41:25] Build b26afa finished in 338 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 408.57ms
+csuccess [00:16:49] Build dc70cd finished in 409 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 416.34ms
+csuccess [00:16:52] Build ae5763 finished in 416 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.87s
+csuccess [00:16:55] Build 8d8699 finished in 2871 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 622.47ms
+csuccess [00:16:57] Build 2a4280 finished in 623 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.17s
+csuccess [00:16:59] Build 89d110 finished in 2169 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 361.67ms
+csuccess [00:17:14] Build 7ce2f1 finished in 362 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.40s
+csuccess [00:17:16] Build 0a9687 finished in 2396 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 307.18ms
+csuccess [00:17:17] Build 2bda1d finished in 307 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 1.88s
+csuccess [00:17:19] Build d91e2c finished in 1875 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 250.75ms
+csuccess [00:17:19] Build 851bfd finished in 251 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 224.55ms
+csuccess [00:17:22] Build cdc7dd finished in 225 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 282.26ms
+csuccess [00:17:26] Build 9e7769 finished in 282 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 237.39ms
+csuccess [00:17:28] Build d376c5 finished in 238 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 451.21ms
+csuccess [00:18:15] Build 5f892d finished in 452 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 384.37ms
+csuccess [00:18:19] Build 0955bf finished in 385 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 380.25ms
+csuccess [00:18:24] Build 82a5eb finished in 380 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 537.84ms
+csuccess [00:18:29] Build c27318 finished in 538 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 318.07ms
+csuccess [00:18:32] Build af065f finished in 319 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 473.26ms
+csuccess [00:18:35] Build 0a4a45 finished in 474 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 213.15ms
+csuccess [00:18:50] Build 182892 finished in 214 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 522.17ms
+csuccess [03:51:55] Build 7b7d33 finished in 523 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 720.08ms
+csuccess [03:52:01] Build 755ddf finished in 720 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.94s
+csuccess [03:52:04] Build 4e1011 finished in 2944 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 599.81ms
+csuccess [03:52:08] Build c01706 finished in 601 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.27s
+csuccess [03:52:11] Build 305d82 finished in 2271 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+Reload due to frontmatter interview/datamining.md
+tip Apply theme @vuepress/theme-default ...
+tip Apply plugin container (i.e. "vuepress-plugin-container") ...
+tip Apply plugin @vuepress/register-components (i.e. "@vuepress/plugin-register-components") ...
+tip Apply plugin @vuepress/active-header-links (i.e. "@vuepress/plugin-active-header-links") ...
+tip Apply plugin @vuepress/search (i.e. "@vuepress/plugin-search") ...
+tip Apply plugin @vuepress/nprogress (i.e. "@vuepress/plugin-nprogress") ...
+tip Apply plugin copyright (i.e. "vuepress-plugin-copyright") ...
+tip Apply plugin mathjax (i.e. "vuepress-plugin-mathjax") ...
+✔ Client: Compiled with some errors in 390.57ms
+csuccess [03:52:14] Build c9ea6e finished in 391 ms! ( http://localhost:8080/ )
+cℹ Compiling Client
+✔ Client: Compiled with some errors in 2.15s
+csuccess [03:52:16] Build 5ec264 finished in 2147 ms! ( http://localhost:8080/ )
