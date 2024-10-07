@@ -45,4 +45,10 @@ GBDT 的主要特点：
 ![alt text](./datamining.assets/gbdt.png)
 
 
-### XGBOOST算法
+## XGBOOST算法
+*课件*  
+<embed src="/xgboost.pdf" type="application/pdf" width="100%" height="600px" />
+<div style="text-align: center">*以上资源来自网上共享，如有侵权请联系我删除*</div>  
+笔记:  
+还得看 xgboost 数学推导公式 有点难，看不懂反复看别人的教程。
+
