@@ -52,3 +52,7 @@ GBDT 的主要特点：
 笔记:  
 还得看 xgboost 数学推导公式 有点难，看不懂反复看别人的教程。
 
+
+## 信息增益公式
+![alt text](./datamining.assets/geni_into.png)
+![alt text](./datamining.assets/geni_form.png)
