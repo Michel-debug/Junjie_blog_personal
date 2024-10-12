@@ -1,13 +1,11 @@
-
-
-
-
 # 自我介绍
-
-
 在技术方面，我熟悉包括Hadoop、Spark和Hive在内的大数据技术栈，同时也具有扎实的SQL数据库操作能力。我参与过多个项目，其中包括数据分析项目和一个我基于个人创意优化的Spark NLP项目....
-
 # 根据简历上 问问题!!!
+
+## hive笔记冲刺
+*课件*  
+<embed src="/Hive_resume.pdf" type="application/pdf" width="100%" height="600px" />
+<div style="text-align: center">*以上资源来自网上共享，如有侵权请联系我删除*</div>  
 
 ## 1. 介绍一下hadoop
 
@@ -259,7 +257,7 @@ sort merge  join， shuffle 重新分区 -》 sort 对单个分区节点的两�
 
 ## 5.6 spark 数据倾斜问题
 
-![截屏2024-04-18 01.37.28](./datadev.assets/data_skew.png)
+![截屏2024-04-18 01.37.28](./datadev.assets/dataskew.png)
 
 ## 5.7 spark 容错机制
 
@@ -446,7 +444,7 @@ broker  代表一个kafka节点 一个服务器
 
 *商品、关注人、取消关注的人、点不值次数、点值次数、点赞次数、分享*
 
-*次数、爆料数、加购物车数、取消购物车次数等待*![截屏2024-04-11 22.42.37](./datadev.assets/data1.png)
+*次数、爆料数、加购物车数、取消购物车次数等待*!
 
 # ![](./datadev.assets/offline.png)
 
@@ -1082,7 +1080,6 @@ void tri_rapide(int indinf,int indsup,int *a){
     }
 }
 ```
-
 
 
 
