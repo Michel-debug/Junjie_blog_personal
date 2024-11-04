@@ -3,6 +3,7 @@ module.exports = {
     title: 'Junjie CHEN\'s blog',
     description: 'junjun vuepress 文档',
     plugins:[
+      ['task-lists'],
   [
     'copyright',{
       copyright:true,
@@ -28,12 +29,13 @@ module.exports = {
 	{text: '学习笔记',
 	      // 导航栏配置
 	items:[
-        {text: '机器学习', link: '/ml/' },
+        {text: '深度学习', link: '/ml/' },
         {text: '算法题库', link: '/algorithm/'},
         {text: '大数据面试', link: '/interview/bigdata.html'},
+        {text: '数据仓库', link: '/interview/dw.html'},
         {text: 'spark面试', link: '/interview/pyspark.html'},
         {text: '数据研发', link: '/interview/datadev.html'},
-        {text: '数据挖掘', link: '/interview/datamining.html'},
+        {text: '机器学习/数据挖掘', link: '/interview/datamining.html'},
         {text: 'sql笔记', link: '/interview/sql.html'},
       ]},
 	 {text:"关于我", link: '/about/'},
