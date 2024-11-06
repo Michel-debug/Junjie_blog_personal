@@ -42,6 +42,6 @@ module.exports = {
 	 {text:'Github', link:'https://github.com/michel-debug'}
 	],
       sidebar: 'auto', // 侧边栏配置
-      sidebarDepth: 2, // 侧边栏显示2级
+      sidebarDepth: 1, // 侧边栏显示2级
     }
   };
