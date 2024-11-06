@@ -132,7 +132,7 @@ GBDT 的主要特点：
 或插值，并没有反应真实情况，存在过拟合的情况。
 
 ## 统计检验
-### 零假设(原假设)与备择假设
+### 1.零假设(原假设)与备择假设
 <p>
 所谓原假设，就是在进行统计检验时预先设定的假设条件，一般是在实验前<strong>最保守，最容易推翻</strong>的假设，
 而之后实验的意义就是证明原假设是错误的，若原假设成立，可知他的统计量服从某个概率分布，若计算值落入否定域，可知发生小概率事件，
@@ -145,10 +145,12 @@ GBDT 的主要特点：
 ![alt text](./datamining.assets/suppose.png)
 ![alt text](./datamining.assets/hypothesis.png)
 
-### 卡方检验与卡方分箱
+### 2.卡方检验与卡方分箱
 ![alt text](./datamining.assets/chi_square.png)
-<p>
-卡方分箱：
-</p>
 
-### WOE 转换
+![alt text](./datamining.assets/chi_merge.png)
+
+![alt text](./datamining.assets/chi_procedure.png)
+
+
+### 3. WOE 转换
