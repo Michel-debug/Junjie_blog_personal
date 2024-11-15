@@ -1,9 +1,14 @@
 
 module.exports = {
     title: 'Junjie CHEN\'s blog',
-    description: 'junjun vuepress 文档',
+    description: 'junjun vuepress doc',
     plugins:[
-      ['task-lists'],
+  // [ deprecated , some reasons about version, used head model to implement it
+  //   '@vuepress/google-analytics',
+  //   {
+  //     'ga':'G-BMGP7JS0N3'
+  //   }
+  // ],
   [
     'copyright',{
       copyright:true,
@@ -17,6 +22,20 @@ module.exports = {
       ['title', {}, 'junjun的博客'],
       ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
       ['link', { rel: 'icon', type: 'image/png', sizes:'32x32', href:'/ico.png'}],
+      [
+        'script',
+        {
+            async: true,
+            src: 'https://www.googletagmanager.com/gtag/js?id=G-BMGP7JS0N3',
+        },
+    ],
+    [
+        'script',
+        {},
+        [
+            "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-BMGP7JS0N3');",
+        ],
+    ],
     ],
     base: '/', // 这是部署到github相关的配置
     markdown: {

@@ -169,10 +169,14 @@ case "$1" in
             echo -e "${RED}VuePress server is not running or PID file is missing${RESET}" | tee -a $LOG_FILE
             echo -e "${RED}failure${RESET}"
         fi
+        if [ -f $LOG_FILE ]; then
+            rm -rf $LOG_FILE
+        fi 
         ;;
         
     *)
         echo -e "${BLUE}Usage: $0 {start|stop}${RESET}"
         exit 1
         ;;
+    
 esac
