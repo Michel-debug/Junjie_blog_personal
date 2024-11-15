@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vuepress": "^1.9.7",
     "@vuepress/plugin-google-analytics": "^1.9.10",
     "vue-template-compiler": "^2.7.16",
+    "vuepress": "^1.9.7",
     "vuepress-plugin-copyright": "^1.0.2",
     "vuepress-plugin-sitemap": "^2.3.1"
   },
