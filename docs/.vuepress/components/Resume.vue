@@ -31,14 +31,14 @@
         </div>
         <div>
           <h3>CY cergy paris University</h3>
-          <p>computer science, bachelor(exchange programme), 2022-2023</p>
+          <p>data science and big data technology, computer science, bachelor 2020-2023</p>
           <!-- 可以包括 GPA、主修课程等 -->
         </div>
-        <div>
+        <!-- <div>
           <h3>Zhejiang technology and science  University</h3>
-          <p>data science and big data technology, double bachelor, 2019-2022</p>
-          <!-- 可以包括 GPA、主修课程等 -->
-        </div>
+          <p>double bachelor, 2019-2022</p>
+           可以包括 GPA、主修课程等 
+        </div> -->
       </section>
   
         <!-- 技能清单 -->
