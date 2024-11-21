@@ -2,7 +2,7 @@
 sidebar: false
 ---
 # 周学习计划 11.14 - 11.22
-  - [] 完成离线数仓项目，修改简历  
+  - [x] 完成离线数仓项目，修改简历  (后续以数据挖掘数据分析方向走，数仓有点太duty了)
   - [] 尽量抽出时间刷sql 和 leetcode，meme si ca serais impossible de finir, mais encore fait-le, 以及常见的八股hadoop，spark，hive，kafka 这四个务必要经常看  
   - [] 试着修改一下之前的nlp项目，或者开始一个全新的对话项目，或者做一个简单的大模型项目  
   - [] mysql数据库底层原理要重新看一下  
