@@ -1,10 +1,18 @@
 ---
 sidebar: false
 ---
+# 周学习计划 11.23 - 11.30
+  *上周总结：Don't think of others, do youself carefully, 不要在意外界的声音，把自己该干的事情做好，不要精神内耗，不要精神内耗，不要精神内耗*
+  - [] 复习nlp相关算法和项目
+  - [] 刷leetcode和sql
+  - [] 复习学校的课，下周要考试
+  - [] 回顾数据分析的知识，背诵hadoop，hive，kafka八股
+  - [] 11.23 mysql原理重新看一遍 不要再拖了！！！！！
+
 # 周学习计划 11.14 - 11.22
   - [x] 完成离线数仓项目，修改简历  (后续以数据挖掘数据分析方向走，数仓有点太duty了)
-  - [] 尽量抽出时间刷sql 和 leetcode，meme si ca serais impossible de finir, mais encore fait-le, 以及常见的八股hadoop，spark，hive，kafka 这四个务必要经常看  
-  - [] 试着修改一下之前的nlp项目，或者开始一个全新的对话项目，或者做一个简单的大模型项目  
+  - [x] 尽量抽出时间刷sql 和 leetcode，meme si ca serais impossible de finir, mais encore fait-le, 以及常见的八股hadoop，spark，hive，kafka 这四个务必要经常看  
+  - [x] 试着修改一下之前的nlp项目，或者开始一个全新的对话项目，或者做一个简单的大模型项目  
   - [] mysql数据库底层原理要重新看一下  
 
 
