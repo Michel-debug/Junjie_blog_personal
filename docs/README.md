@@ -3,14 +3,14 @@ sidebar: false
 ---
 # 周学习计划 11.23 - 11.30
   *上周总结：Don't think of others, do youself carefully, 不要在意外界的声音，把自己该干的事情做好，不要精神内耗，不要精神内耗，不要精神内耗*
-  - [] 复习nlp相关算法和项目
-  - [] 刷leetcode和sql
-  - [] 复习学校的课，下周要考试
-  - [] 回顾数据分析的知识，背诵hadoop，hive，kafka八股
-  - [] 11.23 mysql原理重新看一遍 不要再拖了！！！！！
+  - [] 复习nlp相关算法和项目， seq2seq，gru，lstm，bert，transformer
+  - [x] 刷leetcode和sql 11.23 11.24 11.25 11.26 11.27 11.28
+  - [x] 复习学校的课，下周要考试
+  - [] 回顾数据分析的知识，背诵hadoop，hive，kafka八股,  hadoop 一半，hive一半，kafka一半，数分pandas复习完，准备搞一个分析的项目
+  - [x] 11.23 mysql原理重新看一遍 不要再拖了！！！！！ （事务，索引树）主要是这两个
 
 # 周学习计划 11.14 - 11.22
-  - [x] 完成离线数仓项目，修改简历  (后续以数据挖掘数据分析方向走，数仓有点太duty了)
+  - [x] 完成离线数仓项目，修改简历  (后续以数据挖掘数据分析方向走，数仓有点太dirty了)
   - [x] 尽量抽出时间刷sql 和 leetcode，meme si ca serais impossible de finir, mais encore fait-le, 以及常见的八股hadoop，spark，hive，kafka 这四个务必要经常看  
   - [x] 试着修改一下之前的nlp项目，或者开始一个全新的对话项目，或者做一个简单的大模型项目  
   - [] mysql数据库底层原理要重新看一下  
@@ -97,5 +97,5 @@ sidebar: false
 
 **---------------------------------------------每日总结----------------------------------------------**
 
-* 不要停下脚步。 养成好习惯！！🫰 累了，就休息，每天都让自己帅气一点，阳光一点，心态放好，多笑笑   
+* 不要停下脚步。 养成好习惯！！🫰 累了，就休息，每天都让自己帅气一点，阳光一点，心态放好，多笑笑 , 心态决定风水  
 ***别人可以 我也可以 je m'en fous ce que les gens font, ce qui me plange c'est ma vie!***
