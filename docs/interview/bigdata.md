@@ -206,7 +206,3 @@ row_number rank dense_rank区别
 你经历过什么挫折
 如何化挫折为动力
 反问 olap技术推荐学哪个 对实习生的培养
-
-作者：kathyr_
-链接：https://www.nowcoder.com/feed/main/detail/e2f11f3bbb314e3f91eb9b58ec46faf0?sourceSSR=post
-来源：牛客网
