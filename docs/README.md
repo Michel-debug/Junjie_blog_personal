@@ -6,6 +6,7 @@ sidebar: false
  - [] 开发包装一个电商数仓项目，组件主要围绕hadoop hive spark kafka 四个来看，shell语法重新学习一下
  - [] 复习学校的 web of data ， social graphe， optimisation 的课
  - [] 复习一下统计学的知识，围绕李航 统计方法 来看 （平时在路上就可以看）
+ - [] 有时间Java 基础复习一下 不用太深
 
 
 # 周学习计划 12.1-12.7 （头铁算法，卷开发）
