@@ -1,15 +1,31 @@
 ---
 sidebar: false
+--- 大模型提升之路
+1. 研究一下 rlhf 广义强化算法，提升大模型的能力
+2. 研究大模型驱动的智能体算法，包括但是不局限于ReACT, Voyager, WebGPT, AutoGPT
 ---
+12.17
+这三天主要任务就是调研一下大模型发展，以及前沿的技术  
+大模型综述 了解一下2023/2024 当前各类大模型发展及用途：
+***https://arxiv.org/pdf/2402.06196***  
+***https://arxiv.org/pdf/2308.14149***
+---
+# 周学习计划 12.16-12.24
+ - [] 二刷leetcode
+ - [] 学习大模型 相关知识，租个显卡跑一下相关任务
+ - [] 打算重构一下ai医疗那个项目，试一下结合rag + llm 能不能做点东西出来
+ - [] pytorch 重新练一下 直接看开源项目即可
+
+
 # 周学习计划 12.8-12.14
- - [] 刷leetcode，sql leetcode 准备二刷
- - [] 开发包装一个电商数仓项目，组件主要围绕hadoop hive spark kafka 四个来看，shell语法重新学习一下
- - [] 复习学校的 web of data ， social graphe， optimisation 的课
- - [] 复习一下统计学的知识，围绕李航 统计方法 来看 （平时在路上就可以看）
- - [] 有时间Java 基础复习一下 不用太深
+ - [x] 刷leetcode，sql leetcode 准备二刷
+ - [x] 开发包装一个电商数仓项目，组件主要围绕hadoop hive spark kafka 四个来看，shell语法重新学习一下
+ - [x] 复习学校的 web of data ， social graphe， optimisation 的课
+ - [x] 复习一下统计学的知识，围绕李航 统计方法 来看 （平时在路上就可以看）
+ - [x] 有时间Java 基础复习一下 不用太深
 
 
-# 周学习计划 12.1-12.7 （头铁算法，卷开发）
+# 周学习计划 12.1-12.7 （头铁算法）
  - [x] 开发nlp智能对话项目，开发llm项目，在搞一个虚拟换衣项目，7三定律，基本4，2，2天一个项目
  - [x] 刷leetcode 和 sql
  - [x] 继续复习一下hadoop，hive，kafka，spark 就这四个给我使劲看 （flink不要管 浪费时间）
