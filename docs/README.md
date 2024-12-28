@@ -2,8 +2,19 @@
 sidebar: false
 
 ---
-# day 12.17
+# day 12.28
+- <a href="https://arxiv.org/pdf/2310.14623">cot_论文</a>  
+- <a href = "https://github.com/FudanDISC/DISC-MedLLM"> fudan medical llm </a>
+- <a href = "https://zhuanlan.zhihu.com/p/641132245">llm+embedding 问答系统局限性</a>
 
+sft 医疗对话数据集
+
+- <a href = "https://huggingface.co/datasets/Flmc/DISC-Med-SFT">医疗对话sft数据集</a>
+
+
+# day 12.22 (学校考试项目结束，开始看llm知识 15天 把基础相关知识点补齐)
+
+# day 12.17
 这三天主要任务就是调研一下大模型发展，以及前沿的技术  
 大模型综述 了解一下2023/2024 当前各类大模型发展及用途：  
 <a href="https://arxiv.org/pdf/2402.06196">论文综述1</a>  
@@ -29,7 +40,7 @@ sidebar: false
  - [x] 开发nlp智能对话项目，开发llm项目，在搞一个虚拟换衣项目，7三定律，基本4，2，2天一个项目
  - [x] 刷leetcode 和 sql
  - [x] 继续复习一下hadoop，hive，kafka，spark 就这四个给我使劲看 （flink不要管 浪费时间）
- - [] 兼顾学校课程 要期末考了
+ - [x] 兼顾学校课程 要期末考了
  - [x] 金融风控项目 重新做一下 预计要2天*10h 理解各个指标概念。
 
 
