@@ -1,3 +1,7 @@
+# llm之prompt教程
+<embed src="/openai_prompt.pdf" type="application/pdf" width="120%" height="1000px" />
+<div style="text-align: center">*以上资源来自网上共享，如有侵权请联系我删除*</div>  
+
 # 12.18 重新记录一下几种常见的机器学习和深度学习中梯度下降的方法
 d = direction = -grad 
 

@@ -2,11 +2,17 @@
 sidebar: false
 
 ---
+# day 1.4 搜寻一些岗位信息，今年秋招做准备
+![alt text](./ml/img/kuaishou_algo.png)
+![alt text](./ml/img/baidu_nlp.png)
+
+# day 12.30 openai prompt 教程（见深度学习专栏）
+
 # day 12.28
 - <a href="https://arxiv.org/pdf/2310.14623">cot_论文</a>  
 - <a href = "https://github.com/FudanDISC/DISC-MedLLM"> fudan medical llm </a>
 - <a href = "https://zhuanlan.zhihu.com/p/641132245">llm+embedding 问答系统局限性</a>
-
+- <a href = "https://arxiv.org/pdf/2305.14952v2"> focus on your attention </a>
 sft 医疗对话数据集
 
 - <a href = "https://huggingface.co/datasets/Flmc/DISC-Med-SFT">医疗对话sft数据集</a>
