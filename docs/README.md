@@ -2,7 +2,11 @@
 sidebar: false
 
 ---
+# day 1.31 LLM text to sql
+- <a href = "https://arxiv.org/pdf/2501.16607">Text2Sql with MCTS</a>
 # day 1.4 搜寻一些岗位信息，今年秋招做准备
+- <a href = "https://arxiv.org/pdf/2410.10315">rag+llm 季军方案</a>
+
 ![alt text](./ml/img/kuaishou_algo.png)
 ![alt text](./ml/img/baidu_nlp.png)
 
