@@ -2,6 +2,10 @@
 sidebar: false
 
 ---
+# day 2.12 GrapheRAG survey
+- <a href = "https://arxiv.org/pdf/2501.13958">A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models</a>
+
+
 # day 1.31 LLM text to sql
 - <a href = "https://arxiv.org/pdf/2501.16607">Text2Sql with MCTS</a>
 # day 1.4 搜寻一些岗位信息，今年秋招做准备
