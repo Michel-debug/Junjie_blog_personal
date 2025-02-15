@@ -2,6 +2,10 @@
 sidebar: false
 
 ---
+# 2.15 现阶段一些感想
+首先，结合当前自身背景和行情，完全投身算法，可能不是一个明智的选择，因此为了对冲风险，打算准备一手后端开发，工程开发，主要学习一下java相关的技术栈。
+[llm with plan](./interview/bigdata.md)
+
 # day 2.12 GrapheRAG survey
 - <a href = "https://arxiv.org/pdf/2501.13958">A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models</a>
 
