@@ -6,7 +6,7 @@
       <!-- 个人信息 -->
       <h1>Junjie CHEN</h1>
       <p>I am a graduate student at the University of Paris-Saclay, majoring in Computer Science and Data Science. 
-        I am passionate about back-end development, <strong> big data analytics, data mining, and machine learning</strong>.
+        I am passionate about back-end development, <strong> big data analytics, data mining, deeplearning and machine learning</strong>.
       </p>
   
       <!-- 联系方式 -->
@@ -34,11 +34,6 @@
           <p>data science and big data technology, computer science, bachelor 2020-2023</p>
           <!-- 可以包括 GPA、主修课程等 -->
         </div>
-        <!-- <div>
-          <h3>Zhejiang technology and science  University</h3>
-          <p>double bachelor, 2019-2022</p>
-           可以包括 GPA、主修课程等 
-        </div> -->
       </section>
   
         <!-- 技能清单 -->
@@ -65,8 +60,9 @@
         <div>
           <h3>NetEase</h3>
           <p><strong>post:</strong>data engineer</p>
-          <p><strong>time:</strong>2024.4 - 2024.8</p>
+          <p><strong>time:</strong>2024.5 - 2024.9</p>
           <ul>
+            <li> MOE professional decision algo system develop</li>
             <li> Etl processing of game company data; </li>
             <li> Develop game of Thrones features and </li>
             <li> Restruct Empire Wars source code</li>
@@ -75,6 +71,32 @@
             <!-- 添加更多条目 -->
           </ul>
         </div>
+        <div>
+          <h3>Kuaishou Technology (Hangzhou)</h3>
+          <p><strong>post:</strong> LLM Algorithm Engineer, E-commerce Tech Dept.</p>
+          <p><strong>time:</strong> 2025.06 - Present</p>
+          <ul>
+            <li> Live commerce “Smart Card” product matching; 100k multimodal samples (frames+ASR; product images+desc); DeepSpeed + H800 training Chinese-CLIP ViT-L/14-336 </li>
+            <li> Hard negatives + curriculum by similarity bands (0.3–0.5 / 0.6–0.8 / 0.85–0.95); accuracy +40%, recall +30% </li>
+            <li> Dual-tower recall with shared CN-CLIP-336; video tower adds GRU for temporal modeling; GeM pooling fusion; 20-way (1 pos / 19 neg) contrastive training </li>
+            <li> ROI selection via YOLO on frames & product images to denoise and stabilize matching </li>
+            <li> Stage-2 reranking with Qwen2.5-VL-7B on vLLM; LoRA fine-tune; Top-1 80% → 95%; GRU + cross-attn adds +3% to Top-1/Top-5 </li>
+            <li> High-quality short-video scoring (vision + audio + text) for distribution policy; GRPO Acc 80.6% / Rec 66.8%; DPO Acc 84.6% / Rec 42.9% (shipped GRPO for higher recall) </li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Ping An Technology (Shenzhen) Co., Ltd.</h3>
+          <p><strong>post:</strong> Algorithm Engineer, Frontier Tech Research Team</p>
+          <p><strong>time:</strong> 2025.01 - 2025.05</p>
+          <ul>
+            <li> New-energy industry AI consulting assistant (multi-agent, fuzzy calibration, RAG): qwen-agent workflows, intent routing, BM25 + FAISS with m3e embeddings, enterprise name disambiguation </li>
+            <li> chatbi pipeline (NL2SQL + fuzzy calibration + rule templates) to query DB; two-stage reasoning with streaming outputs; typical single-query latency &lt; 10s </li>
+            <li> Auditing policy knowledge-base QA: LangChain chunking, FAISS + m3e-base, metadata pre-filter via BM25, BGE-reranker-base to select top-3 contexts </li>
+            <li> Life-insurance chatbi (NL2SQL, coreference): embedding module optimization; m3e-large fine-tune and bge-qwen2-7b-instruct; +5% intent similarity; LoRA-tuned Qwen2-14B on 8×V100 lifts coreference accuracy 78% → 95% (2–3 turn dialogs) </li>
+          </ul>
+        </div>
+
       </section>
   
 

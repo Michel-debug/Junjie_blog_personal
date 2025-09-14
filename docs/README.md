@@ -2,25 +2,117 @@
 sidebar: false
 
 ---
-# 2.15 现阶段一些感想
-首先，结合当前自身背景和行情，完全投身算法，可能不是一个明智的选择，因此为了对冲风险，打算准备一手后端开发，工程开发，主要学习一下java相关的技术栈。
+
+
+
+# date: 2025.9 秋招大模型面经
+后续会持续分享
+
+# 推荐一些书籍
+算法书籍  
+基础篇  
+《Deep Learning》深度学习经典教材 Ian GoodfellowYoshua Bengio  
+《模式识别与机器学习-PRML》Christopher M. Bishop  
+《Reinforcement Learning-An Introduction》Richard S. Sutton最新版  
+《Speech and Language Processing（3rd Edition Draft）》 — Jurafsky & Martin    
+《Generative Deep Learning (2nd Edition)》 — David Foster    
+《动手学深度学习》—— 李沐中文最新版    
+《神经网络与深度学习》—— 邱锡鹏中文最新版    
+《解构大语言模型》—— 唐亘    
+《GPT图解大模型》    
+《自然语言处理入门》——何晗    
+《PyTorch深度学习实战》    
+paper:    
+		Attention is All You Need（Vaswani et al., 2017）—— Transformer原论文    
+BERT: Pre-training of Deep Bidirectional Transformers（Devlin et al., 2018）    
+GPT-2：Language Models are Unsupervised Multitask Learners（Radford et al., 2019）    
+GPT-3: Language Models are Few-Shot Learners（Brown et al., 2020）    
+ResNet: Deep Residual Learning for Image Recognition（He et al., 2015）    
+Vision Transformer (ViT) — An Image is Worth 16x16 Words（Dosovitskiy et al., 2020）-视觉transformer    
+GAN: Generative Adversarial Nets（Goodfellow et al., 2014）    
+Prefix-Tuning: Optimizing Continuous Prompts for Generation（Li & Liang, 2021）    
+
+进阶篇    
+	《大模型技术原理与应用》 — 李沐 等    
+《自然语言处理：基于预训练模型的方法》 — 邱锡鹏    
+《Efficient Deep Learning》 — Gholami et al.（模型压缩、蒸馏、低秩分解、量化等高效训练与部署）    
+《LangChain实战：从原型到生产，动手打造LLM应用》——张海立、曹士圯
+《从零开始大模型开发与微调：基于PyTorch与ChatGLM》——王晓华    
+《大语言模型：原理与工程实践》——    
+《大模型应用解决方案基于、ChatGPT、GPT-4等Transformer架构的自然语言处理》    
+  paper:
+	T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer（Raffel et al., 2020）  
+Scaling Laws for Neural Language Models（Kaplan et al., 2020）  
+LoRA: Low-Rank Adaptation of Large Language Models（Hu et al., 2021）  
+RLHF: Training Language Models to Follow Instructions（Ouyang et al., 2022）  
+PPO：Proximal Policy Optimization Algorithms（2017）  
+DPO: Direct Preference Optimization（Rafailov et al., 2023）  
+LLaMA: Open and Efficient Foundation Language Models（Touvron et al., 2023）  
+QLoRA: Efficient Finetuning of Quantized LLMs（Dettmers et al., 2023）  
+CLIP: Learning Transferable Visual Models From Natural Language Supervision（Radford et al., 2021）  
+BLIP：Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation（Li et al., 2023）  
+Self-Instruct: Aligning Language Models with Self-Generated Instructions（Wang et al., 2022）  
+A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models——检索增强生成  
+COT：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  
+
+
+高级篇
+《多模态大模型：新一代人工智能技术范式》刘阳 林倞	  
+《高效深度学习：模型压缩与设计》汪玉 宁雪妃  
+《Llama大模型实践指南》张俊祺，曲东奇
+《Scaling Up Machine Learning》 — Ron Bekkerman et al  .
+  智能体AutoGPT：https://www.wuzao.com/document/autogpt/AutoGPT/usage/  
+《Evaluating Large Language Models: A Comprehensive Guide》（Peter Clark, 2024）  
+——LLM 的各类评测方法、基准、自动化评测。  
+《Building LLM-Powered Applications》（Palash Goyal, 2024）  
+	  paper:  
+	Mixture of Experts with Expert Choice Routing（Lepikhin et al., 2020, Switch Transformer）-混合专家
+DeepSeekMoE（2024）——高效稀疏激活专家模型  
+TensorRT-LLM（NVIDIA, 2024）——LLM 硬件加速  
+PaLM: Scaling Language Models to 540 Billion Parameters（Chowdhery et al., 2022）  
+GRPO: Group Relative Policy Optimization（DeepSeek提出）——指令对齐  
+MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models（Zhu et al., 2023）——图像、文本  
+Flamingo: A Visual Language Model for Few-Shot Learning（Alayrac et al., 2022）  
+LLaVA: Large Language and Vision Assistant（Liu et al., 2023）  
+Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond（Bai et al., 2023）——视频、文本、图像  
+Qwen2.5-Omni: Scaling Vision-Language Models with Unified Multimodal Understanding and Generation（Qwen Team, 2024）——视频、音频、文本、图像  
+Speculative Decoding: Fast and Accurate Decoding for Language Models（Chen et al., 2023）——推理加速技术  
+FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness（Dao et al., 2022）——高效注意力机制  
+vLLM: Efficient Memory Management for Large Language Model Serving with PagedAttention（Kwon et al., 2023）——VLLM高效推理  
+A Survey on Knowledge Distillation of Large Language Models（Gou et al., 2023）—知识蒸馏  
+
+# Agent 计算引擎 相关论文及总结
+- <a href="https://arxiv.org/pdf/2312.04511"> An LLM Compiler for Parallel Function Calling </a>
+
+## date: 2025.3.30 量化金融相关论文
+- <a href="https://arxiv.org/pdf/2503.16252v1"> FinQA 金融推理大模型</a>
+- <a href="https://arxiv.org/pdf/2402.18679v4"> LLM4DATA SCIENCE </a> 
+
+# python 协程与线程之间的区别
+
+<p>
+协程主要用于网络异步io, 线程更倾向于cpu上的多任务切换的管理。  
+相较于协程，线程在某些情况下会有难以追踪的错误，竞争条件和内存使用等问题
+</p>
+
+# date: 2025.2.15 现阶段一些感想。
 [llm with plan](./interview/bigdata.md)
 
-# day 2.12 GrapheRAG survey
+# date: 2025.2.12 GrapheRAG survey
 - <a href = "https://arxiv.org/pdf/2501.13958">A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models</a>
 
 
-# day 1.31 LLM text to sql
+# date: 2025.1.31 LLM text to sql
 - <a href = "https://arxiv.org/pdf/2501.16607">Text2Sql with MCTS</a>
-# day 1.4 搜寻一些岗位信息，今年秋招做准备
+# date: 2025.1.4 搜寻一些岗位信息，今年秋招做准备
 - <a href = "https://arxiv.org/pdf/2410.10315">rag+llm 季军方案</a>
 
 ![alt text](./ml/img/kuaishou_algo.png)
 ![alt text](./ml/img/baidu_nlp.png)
 
-# day 12.30 openai prompt 教程（见深度学习专栏）
+# date: 2024.12.30 openai prompt 教程（见深度学习专栏）
 
-# day 12.28
+# date: 2024.12.28
 - <a href="https://arxiv.org/pdf/2310.14623">cot_论文</a>  
 - <a href = "https://github.com/FudanDISC/DISC-MedLLM"> fudan medical llm </a>
 - <a href = "https://zhuanlan.zhihu.com/p/641132245">llm+embedding 问答系统局限性</a>
@@ -30,23 +122,23 @@ sft 医疗对话数据集
 - <a href = "https://huggingface.co/datasets/Flmc/DISC-Med-SFT">医疗对话sft数据集</a>
 
 
-# day 12.22 (学校考试项目结束，开始看llm知识 15天 把基础相关知识点补齐)
+# date: 2024.12.22 (学校考试项目结束，开始看llm知识 15天 把基础相关知识点补齐)
 
-# day 12.17
+# date: 2024.12.17
 这三天主要任务就是调研一下大模型发展，以及前沿的技术  
 大模型综述 了解一下2023/2024 当前各类大模型发展及用途：  
 <a href="https://arxiv.org/pdf/2402.06196">论文综述1</a>  
 <a href="https://arxiv.org/pdf/2308.14149">论文综述2</a>
 
 ---
-# 周学习计划 12.16-12.24
+# 周学习计划 2024.12.16-12.24
  - [] 二刷leetcode
  - [] 学习大模型 相关知识，租个显卡跑一下相关任务
  - [] 打算重构一下ai医疗那个项目，试一下结合rag + llm 能不能做点东西出来
  - [] pytorch 重新练一下 直接看开源项目即可
 
 
-# 周学习计划 12.8-12.14
+# 周学习计划 2024.12.8-12.14
  - [x] 刷leetcode，sql leetcode 准备二刷
  - [x] 开发包装一个电商数仓项目，组件主要围绕hadoop hive spark kafka 四个来看，shell语法重新学习一下
  - [x] 复习学校的 web of data ， social graphe， optimisation 的课
@@ -54,7 +146,7 @@ sft 医疗对话数据集
  - [x] 有时间Java 基础复习一下 不用太深
 
 
-# 周学习计划 12.1-12.7 （头铁算法）
+# 周学习计划 2024.12.1-12.7 （头铁算法）
  - [x] 开发nlp智能对话项目，开发llm项目，在搞一个虚拟换衣项目，7三定律，基本4，2，2天一个项目
  - [x] 刷leetcode 和 sql
  - [x] 继续复习一下hadoop，hive，kafka，spark 就这四个给我使劲看 （flink不要管 浪费时间）
@@ -63,6 +155,7 @@ sft 医疗对话数据集
 
 
 # 记录一下 数据科学 实习经验贴（无垂直，估计完蛋）
+
  - 大数定律和中心极限定理、一二类错误、假设检验、p值、AB实验原理、ML分类模型评价指标等都是要掌握的基础知识
  - SQL除了刷力扣最好也刷下牛客，达到中等难度的题能不看答案做出来的水平
  - 业务理解主要体现在指标构建和思维广度与全面性方面，可以看看产品的面经补充学习下
@@ -71,7 +164,7 @@ sft 医疗对话数据集
  - 二面：挖简历，指标构建思路，统计学基础，机器学习基础，概率计算
 
 
-# 周学习计划 11.23 - 11.30
+# 周学习计划 2024.11.23 - 11.30
   *上周总结：Don't think of others, do youself carefully, 不要在意外界的声音，把自己该干的事情做好，不要精神内耗，不要精神内耗，不要精神内耗*
   - [x] 复习nlp相关算法和项目， seq2seq，gru，lstm，bert，transformer
   - [x] 刷leetcode和sql 11.23 11.24 11.25 11.26 11.27 11.28
@@ -79,21 +172,21 @@ sft 医疗对话数据集
   - [x] 回顾数据分析的知识，背诵hadoop，hive，kafka八股,  hadoop 一半，hive一半，kafka一半，数分pandas复习完，准备搞一个分析的项目
   - [x] 11.23 mysql原理重新看一遍 不要再拖了！！！！！ （事务，索引树）主要是这两个
 
-# 周学习计划 11.14 - 11.22
+# 周学习计划 2024.11.14 - 11.22
   - [x] 完成离线数仓项目，修改简历 
   - [x] 尽量抽出时间刷sql 和 leetcode，meme si ca serais impossible de finir, mais encore fait-le, 以及常见的八股hadoop，spark，hive，kafka 这四个务必要经常看  
   - [x] 试着修改一下之前的nlp项目，或者开始一个全新的对话项目，或者做一个简单的大模型项目  
   - [x] mysql数据库底层原理要重新看一下  
 
 
-# 周学习计划 11.04 - 11.12
+# 周学习计划 2024.11.04 - 11.12
   - [x] 改善一下数据挖掘竞赛准确度(火山预测事件，复习特征工程相关知识点，复习xgboost，catboost，lightgbm) 复习集成学习知识
   - [] 要开始重新学习一下mysql数据库底层原理，以及索引优化相关性操作(去网上找百万级数据集 进行测试 对比索引区别)
   - [x] 刷算法和sql (每天3 + 10) top100 first
   - [x] 离线数仓的东西 要继续做，理解数仓建模方案
   - [x] 深度学习的知识要复习一下尤其是常见的框架，以及常见八股要会，包括传统机器学习八股.
 
-# 学习进度 10.16
+# 学习进度 2024.10.16
   - [x] 完成3道算法题
   - [x] 继续完善电商数仓项目 进度30%
   - [] 11月开始刷sql，计算机基础，操作系统，网络编程
@@ -103,7 +196,7 @@ sft 医疗对话数据集
 
 # 这几天看下来岗位 基本是数据仓库 和 数据挖掘算法 机器学习算法相结合
 主要学一下大数据组件
-## 10.4 美团数据开发 岗位要求：
+## 2024.10.4 美团数据开发 岗位要求：
 
 岗位基本要求
 - 计算机相关专业本科以上学历，有数据开发项目经验；

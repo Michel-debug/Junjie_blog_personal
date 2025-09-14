@@ -56,6 +56,7 @@ module.exports = {
         {text: '数据研发', link: '/interview/datadev.html'},
         {text: '机器学习/数据挖掘', link: '/interview/datamining.html'},
         {text: 'sql笔记', link: '/interview/sql.html'},
+        {text: '多模态/大模型/搜推论文分享', link:'/interview/paper.html'}
       ]},
 	 {text:"关于我", link: '/about/'},
 	 {text:'Github', link:'https://github.com/michel-debug'}
